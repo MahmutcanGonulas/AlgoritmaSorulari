@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\bin\Debug\net6.0\16-AlgoritmaSoruları.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\bin\Debug\net6.0\16-AlgoritmaSoruları.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\bin\Debug\net6.0\16-AlgoritmaSoruları.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\bin\Debug\net6.0\16-AlgoritmaSoruları.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\bin\Debug\net6.0\16-AlgoritmaSoruları.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\obj\Debug\net6.0\16-AlgoritmaSoruları.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\obj\Debug\net6.0\16-AlgoritmaSoruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\obj\Debug\net6.0\16-AlgoritmaSoruları.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\obj\Debug\net6.0\16-AlgoritmaSoruları.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\obj\Debug\net6.0\16-AlgoritmaSoruları.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\obj\Debug\net6.0\16-AlgoritmaSoruları.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\obj\Debug\net6.0\refint\16-AlgoritmaSoruları.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\obj\Debug\net6.0\16-AlgoritmaSoruları.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\obj\Debug\net6.0\16-AlgoritmaSoruları.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\16-AlgoritmaSoruları\obj\Debug\net6.0\ref\16-AlgoritmaSoruları.dll
